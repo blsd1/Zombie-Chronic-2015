@@ -1,0 +1,2 @@
+2026-01-30 13:16:08 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\program files (x86)\steam\steamapps\common\half-life\cstrike\addons\yapb\data\train\cs_siege.prc').
+2026-01-30 13:18:45 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\program files (x86)\steam\steamapps\common\half-life\cstrike\addons\yapb\data\train\zm_bk_hideout.prc').
